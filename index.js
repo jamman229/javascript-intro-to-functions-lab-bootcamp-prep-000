@@ -15,5 +15,5 @@ function logWhisper(string) {
 }
 
 sayHiToGradma(string) {
-  
+  if string === string.toLowerCase()
 }
